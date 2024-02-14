@@ -1,0 +1,144 @@
+body {
+  background-color: #f3e5d8;
+}
+
+.imgContainer {
+  text-align: center;
+  padding-top: 40px;
+}
+
+img {
+  height: 300px;
+  width: 800spx;
+  border-radius: 15px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro_container {
+  width: 700px;
+  height: 1560px;
+  background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.header_1 h1 {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.header_1 p {
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+}
+
+
+.instruct_1_wrapper {
+  background-color: #fff7fc;
+  width: 80%;
+  height: 150px;
+  border-radius: 20px;
+  margin-left: 40px;
+}
+
+.instruct_1 h2 {
+  color: #742e4a;
+  margin-left: 12px;
+}
+
+.instruct_1 {
+  font-family: "Outfit", sans-serif;
+}
+
+.instruct_1 span {
+  color: #a29899;
+}
+
+.instruct_1 li {
+  padding-left: 20px;
+  margin: 5px;
+}
+
+.instruct_1 strong {
+  color: #706762;
+}
+
+.instructTwo h2 {
+  font-family: "Young Serif", serif;
+  color: #7c432c;
+  font-weight: 200;
+  padding-left: 25px;
+}
+
+.instructTwo li {
+  color: #7c432c;
+  margin: 10px;
+}
+
+.instructTwo span {
+  font-family: "Outfit", sans-serif;
+  padding-left: 15px;
+  color: #656564;
+}
+
+#horizontalBreakOne {
+  color: #e4e4e4;
+  width: 90%;
+}
+
+.recipeInstructions h2 {
+  font-family: "Young Serif", serif;
+  padding-left: 25px;
+  font-weight: 200;
+  color: #7c432c;
+}
+
+.recipeInstructions li {
+  color: #7c432c;
+  margin: 10px;
+  font-family: "Outfit", sans-serif;
+  font-weight: bold;
+  padding-left: 15px;
+}
+
+.recipeInstructions strong {
+  color: #57554f
+}
+
+.recipeInstructions span {
+  font-family: "Outfit", sans-serif;
+  text-decoration: none;
+  font-weight: normal;
+  color: #2d2d2d;
+}
+
+.introContainerThree h2{
+  font-family: "Young Serif", serif;
+  padding-left: 25px;
+  font-weight: 200;
+  color: #7c432c;
+}
+
+.introContainerThree p{
+  font-family: "Outfit", sans-serif;
+  text-decoration: none;
+  font-weight: normal;
+  color: #2d2d2d;
+  padding-left: 100px;
+}
+
+.introContainerThree hr{
+  color: #e4e4e4;
+  width: 90%;
+}
+
+.introContainerThree span p{
+  padding-left:10px;
+  color: #898989;
+}
